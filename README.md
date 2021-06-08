@@ -1,2 +1,2 @@
 # basic-deno-api
-Basic Todo APIs with deno.
+Basic Todo REST APIs with deno.
